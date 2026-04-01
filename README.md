@@ -1,3 +1,8 @@
+<h2 dir="rtl" align="center">
+بسم الله الرحمن الرحيم
+</h2>
+
+
 # 🚀 Windows Disk Space Troubleshooting Guide
 This repository documents real-world disk space issues encountered in Windows development environments, including Docker (WSL2) and SQL Server.
 
